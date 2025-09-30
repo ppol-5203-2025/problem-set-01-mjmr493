@@ -4,7 +4,7 @@ Abstract: This project analyzes data in a particular context that contributes to
 
 ### Tutorial
 
-This README file provides an overview of the replication materials for this project. The Python codes used for this project can be found under the folder \textbf{code}. The data used in this project can be found in the \textbf{data} folder, with subfolders \textbf{raw_data} and \textbf{processed_data} indicating the unprocessed and clean data files used in this analysis. The \textbf{output} folder also has subfolders, \textbf{01_main_figures} and \textbf{01_appendix_figures}, contains the outputs for figures in the main project and appendix respectively.
+This README file provides an overview of the replication materials for this project. The Python codes used for this project can be found under the folder **code**. The data used in this project can be found in the **data** folder, with subfolders **raw_data** and **processed_data** indicating the unprocessed and clean data files used in this analysis. The **output** folder also has subfolders, **01_main_figures** and **01_appendix_figures**, contains the outputs for figures in the main project and appendix respectively.
 
 ### Code
 

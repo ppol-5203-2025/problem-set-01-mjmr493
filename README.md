@@ -3,8 +3,6 @@
 
 This repository contains your first problem set for Data Science I: Foundations. 
 
-## Note for whoever may be reviewing this assignment: On GitHub, the raw_data_survey_qualtrics.csv data file does not appear, but it does exist in my Data folder for Question-01.
-
 ## General Rules for Problem Sets
 
 
